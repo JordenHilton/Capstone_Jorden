@@ -1,0 +1,32 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color:white;
+    background-color: black;
+    font-size: 20px;
+  }
+  li {
+      list-style-type: none;
+      color: rgb(111, 190, 243);
+  }
+  nav {
+    padding: 10px 0;
+    background: black;
+  }
+  nav > ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+  }
+  header {
+    align-items: center;
+    background: black;
+    background-size: cover;
+    color: black;
+    height:95vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background: url(https://www.incimages.com/uploaded_files/image/1940x900/getty_856794670_385651.jpg)
+  }
