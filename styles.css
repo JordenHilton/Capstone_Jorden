@@ -17,6 +17,9 @@ body {
     justify-content: space-around;
     margin: 0;
   }
+  ul {
+      padding: 0;
+  }
   header {
     align-items: center;
     background: black;
